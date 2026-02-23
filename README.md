@@ -1,2 +1,2 @@
-# Explore With Me
-Дипломный проект Яндекс Практикума
+# java-explore-with-me
+Template repository for ExploreWithMe project.
